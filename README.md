@@ -36,7 +36,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <a href="https://drive.google.com/file/d/15ZyGF0rb5wTMLPgH9yPrZolgunDy303g/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" />
+    <img src="https://img.shields.io/badge/Resume-FFFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" />
   </a>
 </div>
 
