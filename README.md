@@ -9,16 +9,21 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Software Development**
- 
- 🌱 I’m currently learning **Docker, SQL Database, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/vara-prasad-07/vara-prasad-07/issues)**
+👨‍💻 Developer on a mission to build something BIG  
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🚀 Exploring **Full Stack + Cloud + AI integrations**
 
- </div>
+⚙️ Working with: **Node.js | React | FastAPI | AWS | SQL**
+
+🧩 Interested in: **Scalable apps, AI tools, and real-world solutions**
+
+💬 Ask me anything or collaborate  
+👉 <a href="https://github.com/vara-prasad-07/vara-prasad-07/issues">Let’s connect</a>
+
+⚡ Fun fact: I debug faster after coffee ☕ (sometimes)
+
+</div>
  
 <div align="center"> 
   <a href="mailto:varap2684@gmail.com">
